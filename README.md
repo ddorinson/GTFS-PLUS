@@ -12,6 +12,7 @@ A GTFS-based data transit network data standard suitable for dynamic transit mod
  * Elizabeth Sall (UrbanLabs LLC)  
  * Lisa Zorn (LMZ LLC)  
  * Drew Cooper (San Francisco County Transportation Authority)  
+ * Diana Dorinson (Transportation Analytics)
  
 [issues]: https://github.com/osplanning-data-standards/GTFS-PLUS/issues
 [repo]: https://github.com/osplanning-data-standards/GTFS-PLUS
